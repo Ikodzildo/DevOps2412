@@ -1,0 +1,7 @@
+requests
+awscli
+flask
+boto3
+
+#run in terminal:
+#pip install -r requirements.txt
