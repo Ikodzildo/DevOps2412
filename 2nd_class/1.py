@@ -1,4 +1,4 @@
-print("Hello, david!")
+print("Hello, world!")
 your_name=input("enter your name:")
 
 
