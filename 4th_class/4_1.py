@@ -9,7 +9,7 @@ dr.find_element(by="id", value='peopleamt').send_keys("5")
 dr.find_element(by="id", value='musicquality').send_keys("5")
 dr.find_element(by="id", value='calculate').click()
 actual = dr.find_element(by="id", value="tip").text
-expected = "6.00"
+expected = "7.00"
 # if expected == actual:
 #     print("all cool")
 # else:
